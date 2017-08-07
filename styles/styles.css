@@ -14,10 +14,19 @@ body {
   background-color: #aaaaaa;
   padding-top: 50px;
   padding-bottom: 50px;
+  padding-left: 20px;
 }
 
 .section-three {
   background-color: #7e7e7e;
   padding-top: 50px;
+  padding-right: 20px;
   padding-bottom: 50px;
+  padding-left: 20px;
+}
+
+.image-size {
+  height: 200px;
+  width: auto;
+  overflow: hidden;
 }
