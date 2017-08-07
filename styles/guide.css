@@ -1,0 +1,27 @@
+.dd-container-1 {
+
+}
+
+.dd-row {
+  min-height: 400px;
+}
+
+.dd-row-1 {
+  background-color: #4d4d4d;
+}
+
+.dd-row-2 {
+  background-color: rosybrown;
+}
+
+.dd-row-3 {
+  background-color: aqua;
+}
+
+.dd-row-4 {
+  background-color: crimson;
+}
+
+/*.card {*/
+  /*width: 20rem;*/
+/*}*/
