@@ -10,6 +10,14 @@ body {
   font-size: 30px;
 }
 
-p {
-  color: #d1544c;
+.section-two {
+  background-color: #aaaaaa;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-three {
+  background-color: #7e7e7e;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
