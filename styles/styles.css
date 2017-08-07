@@ -25,8 +25,33 @@ body {
   padding-left: 20px;
 }
 
+.section-four {
+  background-color: #4d4d4d;
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+}
+
 .image-size {
   height: 200px;
   width: auto;
   overflow: hidden;
+}
+
+.logo {
+  font-size: 30px;
+  color: #dddddd;
+}
+
+.wrapper {
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+}
+
+.be-social {
+  font-size: 25px;
+  color: #dddddd;
 }
