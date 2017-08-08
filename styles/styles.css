@@ -10,14 +10,18 @@ body {
   font-size: 30px;
 }
 
-.section-two {
+.category {
+  min-height: 500px;
+}
+
+.category-one {
   background-color: #aaaaaa;
   /*padding-top: 50px;*/
   /*padding-bottom: 50px;*/
   /*padding-left: 20px;*/
 }
 
-.section-three {
+.category-two {
   background-color: #7e7e7e;
   /*padding-top: 50px;*/
   /*padding-right: 20px;*/
@@ -25,7 +29,7 @@ body {
   /*padding-left: 20px;*/
 }
 
-.section-four {
+.category-three {
   background-color: #4d4d4d;
   /*padding-top: 50px;*/
   /*padding-right: 20px;*/
