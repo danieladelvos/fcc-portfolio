@@ -50,3 +50,12 @@ body {
   /*font-size: 25px;*/
   color: #dddddd;
 }
+
+.link-color {
+  color: #dddddd;
+}
+
+.link-color:hover,
+.link-color:focus {
+  color: #aaaaaa;
+}
