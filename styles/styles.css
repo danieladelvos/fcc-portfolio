@@ -12,29 +12,21 @@ body {
 
 .category {
   min-height: 500px;
+  padding-top: 20px;
 }
 
 .category-one {
   background-color: #aaaaaa;
-  /*padding-top: 50px;*/
-  /*padding-bottom: 50px;*/
-  /*padding-left: 20px;*/
 }
 
 .category-two {
   background-color: #7e7e7e;
-  /*padding-top: 50px;*/
-  /*padding-right: 20px;*/
-  /*padding-bottom: 50px;*/
-  /*padding-left: 20px;*/
 }
 
 .category-three {
   background-color: #4d4d4d;
-  /*padding-top: 50px;*/
-  /*padding-right: 20px;*/
-  /*padding-bottom: 50px;*/
-  /*padding-left: 20px;*/
+  line-height: normal;
+  padding: 20px 0;
 }
 
 .logo {
@@ -42,21 +34,27 @@ body {
   color: #dddddd;
 }
 
-.wrapper {
-  padding: 50px 20px 50px 20px;
-}
-
 .be-social {
-  /*font-size: 25px;*/
   color: #dddddd;
+  text-align: right;
 }
 
-.link-color {
+.footer-link {
   color: #dddddd;
+  margin-right: 5px;
 }
 
-.link-color:hover,
-.link-color:focus {
+.footer-link:hover,
+.footer-link:focus {
   color: #aaaaaa;
   text-decoration: none;
+}
+
+/* override bootstrap */
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.mr-auto {
+  margin-right: 0 !important;
 }
